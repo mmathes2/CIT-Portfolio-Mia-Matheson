@@ -19,11 +19,16 @@
 ### Lab 9 
 [Lab 9 Link](https://github.com/mmathes2/cit281-lab9)
 ### Project 1 
-
+[Project 1 Link](https://github.com/mmathes2/cit281-p1)
 ### Project 2 
 
+### Project 3 
+
+### Project 4 
+
 ### Project 5 
-
+[Project 5 Link](https://github.com/mmathes2/cit281-p5)
 ### Project 6 
-
+[Project 6 Link](https://github.com/mmathes2/cit281-p6)
 ### Project 7 
+[You're Already Here](https://github.com/mmathes2/CIT-Portfolio-Mia-Matheson)
