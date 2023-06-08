@@ -21,11 +21,11 @@
 ### Project 1 
 [Project 1 Link](https://github.com/mmathes2/cit281-p1)
 ### Project 2 
-
+[Project 2 Link](https://github.com/mmathes2/cit281-p2)
 ### Project 3 
-
+[Project 3 Link](https://github.com/mmathes2/cit281-p3)
 ### Project 4 
-
+[Project 4 Link](https://github.com/mmathes2/cit281-p4)
 ### Project 5 
 [Project 5 Link](https://github.com/mmathes2/cit281-p5)
 ### Project 6 
